@@ -10,5 +10,11 @@ System.out.println(s+s1);
 String s3="WELCOME";
 String s31="MUMMY";
 System.out.println(s3+s31);
+
+String ss="WELCOME";
+String ss1="DADDY";
+System.out.println(ss+ss1);
+
+
 }
 }
